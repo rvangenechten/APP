@@ -1,0 +1,17 @@
+{
+  "name": "SolanaMemes",
+  "short_name": "Memes",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#8b0000",
+  "description": "A red drippy Solana meme coin tracker 🚀🌙",
+  "icons": [
+    {
+      "src": "moon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable any"
+    }
+  ]
+}
